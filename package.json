@@ -1,0 +1,21 @@
+{
+  "name": "ws-keeper001",
+  "version": "0.0.1",
+  "description": "WEB SERVICES for keeper Service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "ws",
+    "rest"
+  ],
+  "author": "kanibalv <kanibalv at gmail> (https://github.com/kanibalv)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  }
+}
